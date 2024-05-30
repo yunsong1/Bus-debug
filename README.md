@@ -1,2 +1,2 @@
 # Bus-debug
-基于FPGA的Bus模块仿真调试
+Simulation and debugging of communication interface module based on FPGA
